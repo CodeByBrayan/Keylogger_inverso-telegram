@@ -1,5 +1,5 @@
 # Bot de Telegram para Simular Escritura con Pulsaciones de Teclas
-![Portada del Proyecto](./prepositorio-open-graph-template.png)
+![Portada del Proyecto](./repositorio-open-graph-template.png)
 Este proyecto es un bot de Telegram que simula la escritura de caracteres en el teclado local a medida que el usuario presiona teclas. Se puede usar para "trollear" a tus amigos o para fines humorísticos. Sin embargo, se debe usar con responsabilidad y solo en entornos controlados con el consentimiento adecuado.
 
 ## Advertencia
